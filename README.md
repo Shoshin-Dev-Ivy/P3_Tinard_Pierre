@@ -115,7 +115,7 @@ Il devra apparaître pendant 1 à 3 secondes quand on arrive sur la page d'accue
 
 Le design de ce loader n’est pas défini, toute proposition est donc la bienvenue tant qu’elle est cohérente avec la charte graphique du site.
 
-#### Pages de menu: ###
+### Pages de menu: ###
 À l’arrivée sur la page, les plats devront apparaître progressivement avec un léger
 décalage dans le temps.
 
